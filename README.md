@@ -4,4 +4,4 @@
 
 You can find my [active github accont from here](https://github.com/simeonkerkola/).
 
-__ - Simeon Kerkola__
+__- Simeon Kerkola__
